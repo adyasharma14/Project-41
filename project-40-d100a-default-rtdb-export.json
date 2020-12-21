@@ -1,0 +1,16 @@
+{
+  "gameState" : 1,
+  "playerCount" : 2,
+  "players" : {
+    "player1" : {
+      "distance" : 380,
+      "name" : "Adya",
+      "score" : 96
+    },
+    "player2" : {
+      "distance" : -310,
+      "name" : "Khushi",
+      "score" : 83
+    }
+  }
+}
